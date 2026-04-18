@@ -20,8 +20,11 @@
 I'm building everyday tools for solo developers and sharing Next.js knowledge. - 专注开发独立开发者的日常工具，同时努力输出优质专业的 Next.js 知识。
 
 ## 🛠 Skills
-- **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`
-- **Back-End:** `Nest.js`, `Koa`, `Express`, `ThinkPHP`, `Swoole`, `Django` and `Springboot`
+- **Frontend:** `React`, `Vue`, `Plasmo` and `Next.js`.
+- **Middleware:** `Redis`, `Kafka` and `RabbitMQ`.
+- **Backend:** `Nest.js`, `Koa`, `Express`, `ThinkPHP`, `Swoole`, `Django` and `Springboot`.
+- **Persistence:** `PostgreSQL`, `MySQL` and `MongoDB`.
+- **Search & Analytics:** `Elasticsearch`
 
 <a href="https://github.com/niigelogs/niigelogs" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niigelogs&layout=compact&langs_count=8">
