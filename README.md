@@ -23,7 +23,7 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 - **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`
 - **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`
 
-<a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
+<a href="https://github.com/niigelogs/niigelogs" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niigelogs&layout=compact&langs_count=8">
 </a>
 
