@@ -42,12 +42,12 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 - **Twitter(中文):** [@niigel](https://x.com/intent/follow?screen_name=weijunext)
 - **Twitter(En):** [@niigelog_dev](https://x.com/intent/follow?screen_name=judewei_dev)
 - **Github:** [Github](https://github.com/niigelog)  
-- **Blog:** [J实验室](https://niigel.com.com/)
+- **Blog:** [二哥日志](https://niigel.com.com/)
 - **中文开发者还可以通过以下渠道关注我:**
   - **掘金:** [xxx](https://juejin.cn/user/26044008768029)
   - **知乎:** [xxx](https://www.zhihu.com/people/mo-mo-mo-89-12-11)
   - **即刻：**[xxxx](https://m.okjike.com/users/13EF1128-B51B-4D22-8B95-16BB406529F0)
-  - **微信公众号:** 「XXX」
+  - **微信公众号:** 「Niigelog 二哥日志」
   - **微信交流群:** [全栈交流群](https://niigel/make-a-friend)
 ---
 
