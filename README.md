@@ -32,12 +32,12 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 
 ## 💡 My Products
 
-- [**NEXTY.DEV - Best SaaS Boilerplate**](https://nexty.dev)
-- [**OG Image Generator**](https://myogimage.com/)
-- [**nTab**](https://ntab.dev/)
-- [**Discover Best AI Tools**](https://firstlook.tools/)
-- [**Next.js 中文文档**](https://nextjscn.org/)
-- [**Open Source**](https://github.com/weijunext?tab=repositories)
+- [**NEXTY.DEV - Best SaaS Boilerplate**](https://xxx.dev)
+- [**OG Image Generator**](https://xxx.com/)
+- [**nTab**](https://xxx.dev/)
+- [**Discover Best AI Tools**](https://xxxx.tools/)
+- [**Next.js 中文文档**](https://xxxx.org/)
+- [**Open Source**](https://github.com/niigelogs?tab=repositories)
 
 
 ## 📫 Contact Me
